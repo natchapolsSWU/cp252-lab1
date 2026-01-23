@@ -1,12 +1,12 @@
 # cp252-lab1
 Requirement document <br>
-Functional requirement <br>
+## Functional requirement <br>
 1. ตรวจสอบที่จอดรถ
 2. จองที่จอดรถล่วงหน้า
 3. ยกเลิกการจอง
 4. คำนวณค่าธรรมเนียม
-5. คืนสถานะที่ว่างอัตโนมัติ <br>
-Non-Functional requirement <br>
+5. คืนสถานะที่ว่างอัตโนมัติ
+## Non-Functional requirement <br>
 1. ความถูกต้องของข้อมูล
 2. ความพร้อมใช้งาน
 3. ความง่ายในการใช้งาน
